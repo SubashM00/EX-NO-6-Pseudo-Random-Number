@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+# Reg No : 212223040210
+# Developed By : SUBASH M
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
@@ -11,8 +13,6 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
-# Reg No : 212223040210
-# Developed By : SUBASH M
 ```
 #include <stdio.h>
 
